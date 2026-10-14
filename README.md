@@ -25,6 +25,3 @@ This repository is the starting point. The code lives in the repositories below.
 
 To add a new volume, open an issue here first so we can agree on the name and path.
 
-## Old addresses
-
-These repositories only redirect old links to the live site: [isaiah-redirect](https://github.com/foxhollowgames/isaiah-redirect), [dandc-redirect](https://github.com/foxhollowgames/dandc-redirect), and [bookofmormon-redirect](https://github.com/foxhollowgames/bookofmormon-redirect).
