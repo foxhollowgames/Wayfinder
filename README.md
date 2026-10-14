@@ -15,9 +15,6 @@ This repository is the starting point. The code lives in the repositories below.
 | Book of Mormon | `/book-of-mormon/` | [book-of-mormon](https://github.com/foxhollowgames/book-of-mormon) |
 | Doctrine and Covenants | `/doctrine-and-covenants/` | [doctrine-and-covenants](https://github.com/foxhollowgames/doctrine-and-covenants) |
 
-## Why the hub repository has an odd name
-
-The hub repository must be named `foxhollowgames.github.io`. That name makes it the GitHub Pages user site, which owns the custom domain. GitHub then serves each volume repository as a folder of the same domain. A rename breaks the volume paths.
 
 ## Contribute
 
